@@ -1,3 +1,13 @@
+# Ravenous: Business search app
+
+This project from Codecademy uses React to create an app that connects to the Yelp API and returns relevant business search results based on business type and location. The user is also able to sort using the following criteria: Best Match, Highest Rated and Most Reviewed.
+
+## Roadmap to future updates & improvements
+
+* Make addresses clickable and have them open in Google Maps ina  new tab
+* Make images clickable and have them open the business’ website in a new tab
+* Clicking on a different sorting option automatically requeries the Yelp API, rather than having to manually click “Let’s Go” again
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
